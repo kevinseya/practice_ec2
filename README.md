@@ -26,3 +26,4 @@ mi-pagina/
 Una vez realizados los cambios y hecho el push, accede al servidor para verlos reflejados:
 
 http://18.206.91.44/
+![imagen](https://github.com/user-attachments/assets/25c33771-a2fe-47f6-83bc-d248021a17a2)
